@@ -1,0 +1,10 @@
+<resources>
+    
+    
+    <string name="laser_blaster">Laser Blaster</string>
+    <string name="photon_torpedo">Photon Torpedo</string>
+    <string name="drone_launcher">Drone Launcher</string>
+    <string name="microwave_cannon">Microwave Cannon</string>
+    
+    
+</resources>
