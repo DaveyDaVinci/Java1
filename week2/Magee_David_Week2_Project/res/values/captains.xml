@@ -1,0 +1,30 @@
+<resources>
+    <string name="captain_1">Imogen Tarkian</string>
+    <string name="captain_2">Mika Jonzz</string>
+    <string name="captain_3">Tyria Landen</string>
+    <string name="captain_4">Marcel Graves</string>
+    <string name="captain_5">Jkozsni</string>
+    <string name="captain_6">Arishta Lancome</string>
+    <string name="captain_7">Tristan the Bold</string>
+    <string name="captain_8">Rhea Diaz</string>
+    <string name="captain_9">Unkklik</string>
+    <string name="captain_10">Roads</string>
+    <string name="captain_11">Kitana Fervor</string>
+    <string name="captain_12">Allistair Mercer</string>
+    
+    <array name="captainsArray">
+    	<item>Imogen Tarkian</item>
+    	<item>Mika Jonzz</item>
+    	<item>Tyria Landen</item>
+    	<item>Marcel Graves</item>
+    	<item>Jkozsni</item>
+    	<item>Arishta Lancome</item>
+    	<item>Tristan the Bold</item>
+    	<item>Rhea Diaz</item>
+    	<item>Unkklik</item>
+    	<item>Roads</item>
+    	<item>Kitana Fervor</item>
+    	<item>Allistair Mercer</item>
+    </array>
+    
+</resources>
